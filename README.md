@@ -1,0 +1,2 @@
+# mModbusRtuTool
+使用QT官方类qmodbusrtuserialmaster编写的一个简单工具
